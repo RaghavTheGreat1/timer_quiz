@@ -4,9 +4,9 @@ import (
 	"encoding/csv"
 	"flag"
 	"fmt"
+	"github.com/RaghavTheGreat1/timer_quiz/models"
 	"log"
 	"os"
-	"quiz/models"
 	"strings"
 	"time"
 )
